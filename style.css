@@ -1,0 +1,228 @@
+.first_block {
+  width: 1600px;
+  min-height: 720px;
+  background-image: url('../img/background.png');
+  background-repeat: no-repeat;
+  align-content: center;
+  text-align: center;
+}
+.main_nav {
+  padding-top: 6px;
+  display: flex;
+  align-items: center;
+  padding-left: 27%;
+  padding-right: 20%;
+  padding-top: 15px;
+  color: #ffffff;
+  opacity: 0.8;
+}
+svg {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+a {
+  text-decoration: none;
+  padding-right: 50px;
+  padding-left: 50px;
+  color: #ffffff;
+  text-align: center;
+}
+a:hover {
+  color: #00afdb;
+}
+.main_title {
+  text-transform: uppercase;
+  padding-top: 135px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 75px;
+  letter-spacing: 4.5px;
+  color: #ffffff;
+  text-shadow: rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+.main_text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 140%;
+  color: #ffffff;
+  text-align: center;
+}
+.started {
+  background: #00afdb;
+  width: 184px;
+  height: 46px;
+  border: 0px;
+}
+.started:hover {
+  color: teal;
+}
+.butt_started_text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.sub_nav {
+  padding-top: 150px;
+}
+.second_block {
+  display: flex;
+  flex-direction: row;
+  width: 1600px;
+  padding-bottom: 140px;
+}
+.second_article {
+  margin-top: 250px;
+  margin-left: 270px;
+  margin-right: 250px;
+  width: 407px;
+  height: 233px;
+}
+.img_second {
+  margin-top: 120px;
+  width: 410px;
+  height: 580px;
+}
+.header_sec {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #373737;
+}
+.text_sec {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  padding-bottom: 20px;
+}
+.comunity_block {
+  display: flex;
+  flex-direction: row;
+  width: 1600px;
+  background-color: #f5f6f7;
+}
+
+section {
+  margin-left: 270px;
+  margin-top: 155px;
+  margin-right: 140px;
+  margin-bottom: 174px;
+}
+.slider_items {
+  padding-top: 15px;
+}
+.slider_text {
+  margin-left: 500px;
+  margin-bottom: 10px;
+  width: 83px;
+  height: 18px;
+}
+.slider {
+  margin-top: 110px;
+}
+.userpic {
+  margin-left: 125px;
+}
+.comunity {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  color: #373737;
+  margin-left: 65px;
+}
+.comunity_text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  color: #4e4e4e;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+}
+.right_code_img {
+  margin-left: 270px;
+  margin-top: 120px;
+  margin-bottom: 100px;
+  width: 407px;
+  height: 582px;
+}
+.article_code {
+  width: 407px;
+  height: 233px;
+  margin-top: 320px;
+  margin-left: 140px;
+}
+.sign_news {
+  background-image: url('../img/pexels-christina-morillo-1181675\ 1.png');
+  background-repeat: no-repeat;
+  align-content: center;
+  text-align: center;
+  width: 1600px;
+  height: 720px;
+}
+.sign_title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-top: 200px;
+}
+input[type='text'] {
+  width: 340px;
+  height: 44px;
+  border: 0px;
+}
+input[type='submit'] {
+  width: 66px;
+  height: 46px;
+  background: url('../img/icon.PNG') no-repeat 50% 50%;
+  align-content: center;
+  border: 0px;
+  margin-left: 0px;
+}
+.inp {
+  display: inline-flex;
+}
+.download {
+width: 1600px;
+  text-align: center;
+}
+.downl_butt {
+  width: 127px;
+  height: 46px;
+background: #00afdb
+  margin: 15px;
+}
+input[type='image'] {
+  width: 59px;
+  height: 46px;
+}
+.downl_butt {
+  background: #00afdb;
+  border: none;
+  margin-left: 40px;
+}
